@@ -2,13 +2,13 @@ project:
   type: website
 
 website:
-  title: "Alex Rike's Personal Website"
+  title: "Alex Rike"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: Information
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:

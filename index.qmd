@@ -12,7 +12,8 @@ about:
       href: https://github.com/alexmrike
     - text: Resume
       url: resume_alexander_rike.pdf
-    - text: Email
+    - icon: inbox-fill
+      text: Email
       url: "mailto:alexandermrike@gmail.com"
 ---
 

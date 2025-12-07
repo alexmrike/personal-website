@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Alex Rike",
@@ -26,5 +19,19 @@
     "title": "Alex Rike",
     "section": "Experience",
     "text": "Experience\nMedvelle | Summer Data Analyst Intern | July 2025 - October 2025 Peterson Capital Management | Intern | Sept 2023 - Jan 2024"
+  },
+  {
+    "objectID": "projects/random_forests_classification_churn.html",
+    "href": "projects/random_forests_classification_churn.html",
+    "title": "Predicting Churn Using Random Forests",
+    "section": "",
+    "text": "📄 View notebook on GitHub"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Alex Rike",
+    "section": "",
+    "text": "Title\n\n\n\n\n\n\n\n\nPredicting Churn Using Random Forests\n\n\n\n\n\n\nNo matching items"
   }
 ]
