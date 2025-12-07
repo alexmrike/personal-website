@@ -9,8 +9,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Alex Rike",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4\n\n\n\nrunif(10)\n\n [1] 0.1997365 0.3856086 0.4073424 0.3001006 0.3912555 0.8091674 0.9313039\n [8] 0.8057937 0.4176546 0.6641695"
+    "text": "Alex Rike is a UCLA student studying Statistics and Data Science. When not studying, Alex enjoys playing on UCLA’s club basketball team."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Alex Rike",
+    "section": "Education",
+    "text": "Education\nUCLA | Los Angeles, CA B.S in Statistics & Data Science | Sept 2022 - June 2026 B.A in Psychology | Sept 2022 - June 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Alex Rike",
+    "section": "Experience",
+    "text": "Experience\nMedvelle | Summer Data Analyst Intern | July 2025 - October 2025 Peterson Capital Management | Intern | Sept 2023 - Jan 2024"
   }
 ]
