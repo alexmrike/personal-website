@@ -11,13 +11,15 @@ about:
       text: Github
       href: https://github.com/alexmrike
     - text: Resume
-      url: resume_alexander_rike.pdf
+      url: "resume_alexander_rike.pdf"
     - icon: inbox-fill
       text: Email
       url: "mailto:alexandermrike@gmail.com"
 ---
 
 Alex Rike is a UCLA student studying Statistics and Data Science. When not studying, Alex enjoys playing on UCLA's club basketball team.
+
+Here is my attached [resume](resume_alexander_rike.pdf)
 
 ## Education
 

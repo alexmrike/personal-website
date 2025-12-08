@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - resume_alexander_rike.pdf
 
 website:
   title: "Alex Rike"
@@ -9,6 +11,8 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
+      - href: courses.qmd
+        text: Courses
 
 format:
   html:

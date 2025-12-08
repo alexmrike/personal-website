@@ -1,6 +1,6 @@
 ---
 title: "Predicting Churn Using Random Forests"
-format: html
+image: images/Decision-Trees-Random-Forests.jpg
 ---
 
 - 📄 [View notebook on GitHub](https://github.com/alexmrike/machine-learning/blob/main/predicting-churn-random-forest/churn_project.ipynb)

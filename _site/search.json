@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Alex Rike",
     "section": "",
-    "text": "Alex Rike is a UCLA student studying Statistics and Data Science. When not studying, Alex enjoys playing on UCLA’s club basketball team."
+    "text": "Alex Rike is a UCLA student studying Statistics and Data Science. When not studying, Alex enjoys playing on UCLA’s club basketball team.\nHere is my attached resume"
   },
   {
     "objectID": "index.html#education",
@@ -28,10 +28,17 @@
     "text": "📄 View notebook on GitHub"
   },
   {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "UCLA Courses",
+    "section": "",
+    "text": "Stats 100C - Linear Models\n\n\nStats 101A - Data Analysis & Regression\n\n\nSTATS 101B - Design & Analysis of Experiment\n\n\nStats 101C - Statistical Models & Data Mining\n\n\nStats 102C - Monte Carlo Methods"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Alex Rike",
     "section": "",
-    "text": "Title\n\n\n\n\n\n\n\n\nPredicting Churn Using Random Forests\n\n\n\n\n\n\nNo matching items"
+    "text": "Predicting Churn Using Random Forests\n\n\n\n\n\nNo matching items"
   }
 ]
